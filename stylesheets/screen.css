@@ -97,3 +97,20 @@ p {
   fill: yellow;
   stroke: orange;
 }
+
+/* line 31, ../sass/screen.sass */
+#three text {
+  font: bold 48px monospace;
+}
+/* line 34, ../sass/screen.sass */
+#three .enter {
+  fill: green;
+}
+/* line 37, ../sass/screen.sass */
+#three .update {
+  fill: #333333;
+}
+/* line 40, ../sass/screen.sass */
+#three .exit {
+  fill: brown;
+}
