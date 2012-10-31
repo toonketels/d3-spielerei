@@ -66,3 +66,34 @@ a img {
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block;
 }
+
+/* line 9, ../sass/screen.sass */
+#container {
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+}
+
+/* line 15, ../sass/screen.sass */
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+/* line 20, ../sass/screen.sass */
+h1 {
+  font-size: 40px;
+}
+
+/* line 23, ../sass/screen.sass */
+p {
+  margin: 16px 0 16px 0;
+}
+
+/* line 26, ../sass/screen.sass */
+.title {
+  fill: yellow;
+  stroke: orange;
+}
