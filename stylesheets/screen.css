@@ -114,3 +114,23 @@ p {
 #three .exit {
   fill: brown;
 }
+
+/* line 43, ../sass/screen.sass */
+table {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-bottom: 2px solid black;
+}
+/* line 48, ../sass/screen.sass */
+table thead td {
+  background-color: #dddddd;
+  color: white;
+  font-weight: 900;
+}
+/* line 53, ../sass/screen.sass */
+table td {
+  background-color: white;
+  padding: 10px 20px;
+  border: 1px solid white;
+  font-weight: 600;
+}
