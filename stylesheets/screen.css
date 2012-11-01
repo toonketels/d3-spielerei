@@ -134,3 +134,22 @@ table td {
   border: 1px solid white;
   font-weight: 600;
 }
+
+/* line 60, ../sass/screen.sass */
+#five .chart {
+  margin-top: 10px;
+}
+/* line 63, ../sass/screen.sass */
+#five .chart rect {
+  stroke: white;
+}
+/* line 66, ../sass/screen.sass */
+#five .chart text {
+  font-weight: 600;
+}
+/* line 69, ../sass/screen.sass */
+#five .chart text.rule {
+  font-weight: 300;
+  font-size: 11;
+  fill: #cccccc;
+}
