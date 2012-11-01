@@ -153,3 +153,8 @@ table td {
   font-size: 11;
   fill: #cccccc;
 }
+
+/* line 76, ../sass/screen.sass */
+#six .chart rect {
+  stroke: white;
+}
